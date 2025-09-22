@@ -1,5 +1,6 @@
-94a7024d1e50d36791267fad276a2ad7 *DESCRIPTION
+21fe7ad683f5a7bcbf340471993bf978 *DESCRIPTION
 60c3863cce2474c40cbbdc16d21b1c43 *NAMESPACE
+95ae95ad55f30e16835904faeaee48c0 *NEWS.md
 16c3cb0794ea6694f25840ab0cc7013d *R/has-dimension.r
 78ca19f69a279353afd7f6ecb9b5bc10 *R/has-missing.r
 4e8199ca47f1195d23cb51bd76f9ce06 *R/has-names.r
@@ -30,11 +31,12 @@ ef273c59ec365e9b52d8ddbb14bd114d *R/same-class.r
 e689581bb62682969e6960c802f887a8 *R/same-mode.r
 c861602fbc622c64a4af59dbf68d4d3b *R/same-type.r
 378734f65bbacba77935a2781fac8d63 *R/true-false.r
-d5c0cf63b4eaf8c68c3fbec2cdc63e3e *build/vignette.rds
-09bf3a5403077f21ee00de38013dccec *inst/doc/tester_introduction.R
+a66c3fc24760428e07d3b395fafb3783 *build/vignette.rds
+4702eaf4ab45e0ffc86b75be48ff9adb *inst/CITATION
+fb45b13e447ed04acddc62b1bdf10616 *inst/_pkgdown.yml
+b76c8db1afc08da43f215c1061cc64e1 *inst/doc/tester_introduction.R
 3f4beb776cb5581d17e47457efb06b66 *inst/doc/tester_introduction.Rnw
-21ba66c1e4e64006829dbb580cf5a932 *inst/doc/tester_introduction.pdf
-2ad19fb0a248ca509f2c05b9347db928 *inst/tests/test-matrix.r
+5a309c9a79ba5a458c93c86eecac1209 *inst/doc/tester_introduction.pdf
 3cf6ba0b4f788120f05c18aba0943664 *man/has_dimension.Rd
 66df91fca3fe356fae0905ea55026d1e *man/has_factors.Rd
 cf500afa5ef3e7b4be9c917b4a96753b *man/has_missing.Rd
@@ -90,4 +92,11 @@ e30b5e47400cba6d63b6ff67b98123a6 *man/same_length.Rd
 64038f5b4242907e47af11de063467d5 *man/same_mode.Rd
 4b685543bd5f7134ff10400caed55d87 *man/same_nrow.Rd
 ca2c466016bd1a06487a38d75ef8991d *man/same_type.Rd
+93fda2c0a1e50144aa3c0a5164add907 *tests/testthat.R
+154d3e37e5a4ad3da84ae7c97dda352d *tests/testthat/test-Rd.R
+2602d41f1337678a64eebc74e14f5c03 *tests/testthat/test-datasets.R
+97921aaf441ec08f38e49e239bc9b733 *tests/testthat/test-examples-smoke.R
+57ecd99a275d25429afd3717275b8a25 *tests/testthat/test-exports.R
+8d2b4d98c373652939b473d294c85e73 *tests/testthat/test-load.R
+ed04d1a122e97a979e7d2d834fc4fe1d *tests/testthat/test-matrix.r
 3f4beb776cb5581d17e47457efb06b66 *vignettes/tester_introduction.Rnw

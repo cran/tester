@@ -20,10 +20,10 @@ number = 1L
 if (number > 0 & is.integer(number)) TRUE else FALSE
 
 ## ----long_line, eval=FALSE----------------------------------------------------
-#  if (number > 0 & is.integer(number)) TRUE else FALSE
+# if (number > 0 & is.integer(number)) TRUE else FALSE
 
 ## ----short_line, eval=FALSE---------------------------------------------------
-#  is_positive_integer(number)
+# is_positive_integer(number)
 
 ## ----is_na_ex1----------------------------------------------------------------
 # test for missing values
@@ -37,6 +37,6 @@ has_missing(c(1, 2, 3, 4, NA))
 has_NA(c(1, 2, 3, 4, NA))
 
 ## ----load_tester, eval=FALSE--------------------------------------------------
-#  # load package tester
-#  library(tester)
+# # load package tester
+# library(tester)
 
