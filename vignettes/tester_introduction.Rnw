@@ -24,7 +24,7 @@
 \author{
  \textbf{\textcolor{darkgray}{G}}\textcolor{lightgray}{aston} 
  \textbf{\textcolor{darkgray}{S}}\textcolor{lightgray}{anchez} \\
-  \small \texttt{\href{http://www.gastonsanchez.com}
+  \small \texttt{\href{https://www.gastonsanchez.com/}
 {www.gastonsanchez.com}}
 }
 \date{}

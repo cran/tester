@@ -1,8 +1,8 @@
 Package: tester
 Type: Package
 Title: Tests and Checks Characteristics of R Objects
-Version: 0.3.0
-Date: 2025-09-20
+Version: 0.3.1
+Date: 2026-11-09
 Authors@R: c(
 	person(given = "Frederic", family= "Bertrand", role = c("cre"), email = "frederic.bertrand@lecnam.net", comment = c(ORCID = "0000-0002-0837-8281")),
 	person(given = "Gaston", family= "Sanchez", role = c("aut")))
@@ -16,8 +16,8 @@ LazyLoad: yes
 NeedsCompilation: no
 RoxygenNote: 7.2.3
 URL: https://fbertran.github.io/tester/,
-        https://github.com/fbertran/tester/
-BugReports: https://github.com/fbertran/tester/issues/
+        https://github.com/fbertran/tester
+BugReports: https://github.com/fbertran/tester/issues
 License: GPL-3
 Depends: R (>= 3.0)
 Suggests: knitr, testthat (>= 3.0.0)
@@ -32,6 +32,6 @@ Collate: 'has-dimension.r' 'has_factors.r' 'has-missing.r'
         'same-mode.r' 'same-type.r' 'is-one-dim.r' 'is-single.r'
         'is-scalar.r' 'is_rectangular_matrix.r'
 Config/testthat/edition: 3
-Packaged: 2025-09-20 23:06:12 UTC; bertran7
+Packaged: 2026-11-09 12:34:07 UTC; bertran7
 Repository: CRAN
-Date/Publication: 2025-09-22 05:10:15 UTC
+Date/Publication: 2026-11-09 16:40:01 UTC
